@@ -1,3 +1,4 @@
+alembic_utils==0.7.6
 flake8==4.0.1
 Flask==1.1.2
 Flask-Migrate==3.1.0
